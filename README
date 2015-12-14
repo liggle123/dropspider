@@ -1,0 +1,1 @@
+一个简单的python爬虫，用于爬取wooyun drops上的文章到本地。因为wooyun drops上有的文章中的图片用python无法下载下来或者下载会超时，所以增加了一个log文件用于显示下载失败的图片。
